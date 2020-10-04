@@ -1,0 +1,28 @@
+/* style for y-axis */
+.axis_y text {
+    font-family: sans-serif;
+    font-size:16px;
+}
+.axis_x text {
+    text-anchor: middle;
+    font-family: sans-serif;
+    font-size:16px;
+}
+.axis_y path,
+.axis_y line {
+    stroke: black;
+}
+.axis_x path,
+.axis_x line {
+    stroke: transparent;
+}
+.lab {
+    text-anchor: middle;
+    font-family: sans-serif;
+    font-size:16px;
+}
+.title {
+    text-anchor: middle;
+    font-family: sans-serif;
+    font-size:20px;
+}
